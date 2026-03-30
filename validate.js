@@ -4,7 +4,7 @@ import crypto from "crypto";
 const KEYS = {
   "ABCD-EFGH-IJKL": { expires: null },
   "NOG-TEST-1234":  { expires: null },
-  "SPEC-TRES-GOAT": { expires: "2026-12-31" },
+  "SPEC-TRES-GOAT-1234": { expires: "2026-12-31" },
 };
 // ─────────────────────────────────────────────────────────────────────
 
